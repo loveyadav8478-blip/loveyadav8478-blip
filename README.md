@@ -99,9 +99,3 @@
   <a href="https://leetcode.com/u/Loveyadav_84/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="loveyadav.8478@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<div align="center">
-
-💡 *"Building the future, one deployment at a time"*
-
-</div>
