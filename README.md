@@ -1,13 +1,3 @@
-<!-- <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+There!+%F0%9F%91%8B;I'm+Love+Yadav;Developer+%7C+DevOps+%7C+Cloud+Enthusiast" alt="Typing SVG" />
-
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=loveyadav8478-blip&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/loveyadav8478-blip?tab=followers"><img src="https://img.shields.io/github/followers/loveyadav8478-blip?label=Followers&style=social" /></a>
-</p> -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hello+There!+%F0%9F%91%8B;I'm+Love+Yadav;Developer+%7C+DevOps+%7C+Cloud+Enthusiast" alt="Typing SVG" />
 </div>
