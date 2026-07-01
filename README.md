@@ -13,7 +13,7 @@
 
 ### ✍️ About Me
 
-- 🚀 I'm a **Developer** specializing in `Development / DevOps / Platform Engineering`
+- 🚀 I'm a **Developer** specializing in `Development / DevOps / DSA`
 - 🌱 Currently working on cloud-native solutions and scalable applications
 - 👯 Looking to collaborate on open-source and DevOps initiatives
 - 💬 Ask me about Java, Spring Boot, Python, Shell Scripting, SQL, and DevOps
