@@ -46,12 +46,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loveyadav8478-blip&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loveyadav8478-blip&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=loveyadav8478-blip&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loveyadav8478-blip&theme=radical&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loveyadav8478-blip&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loveyadav8478-blip&layout=pie&theme=radical&hide_border=true" width="60%" />
 </p>
 
 ---
@@ -59,16 +59,26 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=loveyadav8478-blip&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=loveyadav8478-blip&theme=radical&no-frame=true&row=2&column=4" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loveyadav8478-blip&theme=tokyo-night&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loveyadav8478-blip&theme=react-dark&hide_border=true" width="90%" />
 </p>
+
+---
+
+### 🧊 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/loveyadav8478-blip/loveyadav8478-blip/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
+</p>
+
+> This 3D calendar refreshes automatically via [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) — add the workflow below to your profile repo (`loveyadav8478-blip/loveyadav8478-blip`) to activate it.
 
 ---
 
@@ -78,7 +88,7 @@
   <img src="https://raw.githubusercontent.com/loveyadav8478-blip/loveyadav8478-blip/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </p>
 
-> To generate this snake automatically, add the [platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo.
+> Generated via [platane/snk](https://github.com/Platane/snk) — add its workflow to your profile repo to keep it animating daily.
 
 ---
 
