@@ -2,7 +2,7 @@
 
 <!-- Animated typing header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Love+Yadav;Backend+%7C+Java+Developer;Spring+Boot+%7C+REST+APIs+%7C+Microservices;Currently+Seeking+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Hi+There!+I'm+Love+Yadav;Backend+%7C+Java+Developer;Spring+Boot+%7C+REST+APIs+%7C+Microservices;Currently+Seeking+Internship+Opportunities" alt="Typing SVG" />
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:1F6FEB&height=180&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
@@ -122,6 +122,53 @@ Open to remote, hybrid, or on-site roles — let's connect if your team is hirin
 
 </div>
 
+<!--
+=====================================================================
+ SETUP NOTES (delete this comment block once done)
+=====================================================================
+1. Replace every "loveyadav8478-blip" placeholder above with your
+   actual GitHub username.
+
+2. Create a special repo named exactly like your username
+   (e.g. "LoveYadav-84/LoveYadav-84") and make it public — GitHub
+   shows its README.md on your profile page automatically.
+
+3. For the 3D CONTRIBUTION CALENDAR (the image will be broken until you do this):
+   a. In your repo "loveyadav8478-blip/loveyadav8478-blip", create the file
+      .github/workflows/profile-3d.yml with this content:
+
+      name: GitHub-Profile-3D-Contrib
+      on:
+        schedule:
+          - cron: "0 18 * * *"
+        workflow_dispatch:
+      permissions:
+        contents: write
+      jobs:
+        build:
+          runs-on: ubuntu-latest
+          name: generate-github-profile-3d-contrib
+          steps:
+            - uses: actions/checkout@v4
+            - uses: yoshi389111/github-profile-3d-contrib@latest
+              env:
+                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                USERNAME: loveyadav8478-blip
+
+   b. Commit that file, then go to the repo's "Actions" tab, select
+      "GitHub-Profile-3D-Contrib", and click "Run workflow" once manually
+      (don't wait for the daily schedule).
+   c. It will commit new SVG files into a "profile-3d-contrib/" folder in
+      that same repo — including "profile-green-animate.svg", which is
+      exactly the file this README already links to. After that first run,
+      the image above will render and update automatically every day.
+   d. Full docs / other themes (season, night view, rainbow, etc.):
+      https://github.com/yoshi389111/github-profile-3d-contrib
+
+4. Update the email badge with your real email address.
+
+5. Optional: swap the "tokyonight" theme keyword in the stats URLs
+   for another theme (dracula, radical, merko, gruvbox, etc.) if
    you want a different color palette.
 =====================================================================
 -->
