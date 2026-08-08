@@ -27,7 +27,7 @@
 **Languages & Frameworks**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,solidity,rust" alt="languages-frameworks" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql" alt="languages-frameworks" />
 </p>
 
 **Backend Development**
@@ -80,28 +80,10 @@
 ### 🗓️ 3D Contribution Calendar
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/loveyadav8478-blip/loveyadav8478-blip/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/loveyadav8478-blip/loveyadav8478-blip/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Calendar" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-3d-contrib.vercel.app/api?username=loveyadav8478-blip&theme=juicyfresh" width="100%" alt="3D Contribution Calendar" />
-</div>
-
-> 💡 The 3D calendar and snake animation update automatically once you set up the companion GitHub Actions workflows in your profile repo (`YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME`) — I've included the setup steps at the bottom of this file.
-
----
-
-### 🧩 LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Loveyadav_84?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
-</div>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Loveyadav_84">
-    <img src="https://img.shields.io/badge/LeetCode-Loveyadav__84-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
+> ⚠️ **This image will show broken until you complete a one-time setup** — it isn't a live API, it's a file that GitHub generates and commits *inside your own profile repo* once a day. See **Setup Notes → Step 3** at the bottom of this file (takes about 2 minutes).
 
 ---
 
@@ -126,16 +108,20 @@ Open to remote, hybrid, or on-site roles — let's connect if your team is hirin
 <a href="https://leetcode.com/u/Loveyadav_84" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<a href="loveyadav.8478@gmail.com" target="_blank">
+<a href="mailto:youremail@example.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2F81F7&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=loveyadav8478-blip&label=Profile%20Views&color=2F81F7&style=for-the-badge" alt="profile views" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:2F81F7&height=100&section=footer" width="100%" />
 
 </div>
+
+   you want a different color palette.
+=====================================================================
+-->
