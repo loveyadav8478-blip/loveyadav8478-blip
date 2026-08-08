@@ -77,13 +77,11 @@
 
 ---
 
-### 🗓️ 3D Contribution Calendar
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/loveyadav8478-blip/loveyadav8478-blip/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Calendar" />
 </div>
 
-> ⚠️ **This image will show broken until you complete a one-time setup** — it isn't a live API, it's a file that GitHub generates and commits *inside your own profile repo* once a day. See **Setup Notes → Step 3** at the bottom of this file (takes about 2 minutes).
+> ⚠️ **This image will show broken until you complete a one-time setup** — it isn't a live API, it's a file that GitHub generates and commits *inside your own profile repo* once a day. See **Setup Notes → Step 3** at the bottom of this file (takes about 2 minutes). -->
 
 ---
 
