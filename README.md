@@ -87,7 +87,7 @@ A platform to coordinate disaster relief and resource distribution efficiently.
 </td>
 <td width="50%" valign="top">
 
-**☁️ [AWS Terraform IaC](https://github.com/loveyadav8478-blip/aws-terraform-infra)**
+**☁️ [AWS Terraform IaC](https://github.com/loveyadav8478-blip/terraform-aws-infra)**
 
 Infrastructure-as-Code setup provisioning AWS resources using Terraform.
 
@@ -98,7 +98,7 @@ Infrastructure-as-Code setup provisioning AWS resources using Terraform.
 <tr>
 <td width="50%" valign="top">
 
-**💰 [Finpilot](https://github.com/loveyadav8478-blip/Finpilot)** &nbsp; <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square"/>
+**💰 [Finpilot](https://github.com/loveyadav8478-blip/Finpilot-Backend)** &nbsp; <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square"/>
 
 A personal finance / fintech assistant project — currently under active development.
 
