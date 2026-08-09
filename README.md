@@ -58,7 +58,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**🛣️ [RouteX](https://github.com/loveyadav8478-blip/RouteX)**
+**🛣️ [RouteX](https://github.com/loveyadav8478-blip/Routex)**
 
 Backend service for route planning / optimization, built with Spring Boot and REST APIs.
 
@@ -111,7 +111,7 @@ A personal finance / fintech assistant project — currently under active develo
 </tr>
 </table>
 
-> 📝 Repo links above are placeholders (`loveyadav8478-blip/<repo-name>`) — swap in your real repo URLs and rewrite the one-liners if you'd like a more accurate description for any of these.
+<!--> 📝 Repo links above are placeholders (`loveyadav8478-blip/<repo-name>`) — swap in your real repo URLs and rewrite the one-liners if you'd like a more accurate description for any of these.-->
 
 ---
 
