@@ -52,6 +52,69 @@
 
 ---
 
+### 📂 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🛣️ [RouteX](https://github.com/loveyadav8478-blip/RouteX)**
+
+Backend service for route planning / optimization, built with Spring Boot and REST APIs.
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+**🔗 [URL Shortener](https://github.com/loveyadav8478-blip/url-shortner)**
+
+A REST API service that shortens long URLs and redirects users, with persistence and analytics.
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🆘 [ReliefNet](https://github.com/loveyadav8478-blip/ReliefNet)**
+
+A platform to coordinate disaster relief and resource distribution efficiently.
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+**☁️ [AWS Terraform IaC](https://github.com/loveyadav8478-blip/aws-terraform-infra)**
+
+Infrastructure-as-Code setup provisioning AWS resources using Terraform.
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**💰 [Finpilot](https://github.com/loveyadav8478-blip/Finpilot)** &nbsp; <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square"/>
+
+A personal finance / fintech assistant project — currently under active development.
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Microservices-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+> 📝 Repo links above are placeholders (`loveyadav8478-blip/<repo-name>`) — swap in your real repo URLs and rewrite the one-liners if you'd like a more accurate description for any of these.
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
