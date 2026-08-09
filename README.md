@@ -60,7 +60,7 @@
 
 **🛣️ [RouteX](https://github.com/loveyadav8478-blip/Routex)**
 
-Backend service for route planning / optimization, built with Spring Boot and REST APIs.
+AI-powered Traffic Intelligence Platform built with React, Spring Boot, FastAPI, PostgreSQL, Redis, WebSockets, and AWS. Provides traffic prediction, route analytics, real-time alerts, and an intelligent route assistant.
 
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 
