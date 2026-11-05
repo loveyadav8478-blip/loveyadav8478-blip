@@ -111,22 +111,17 @@ A personal finance / fintech assistant project — currently under active develo
 </tr>
 </table>
 
-
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=loveyadav8478-blip&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loveyadav8478-blip&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+  <img height="165" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Used Languages" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=loveyadav8478-blip&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=loveyadav8478-blip&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 </div>
 
 ---
@@ -134,16 +129,8 @@ A personal finance / fintech assistant project — currently under active develo
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loveyadav8478-blip&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</div>
-
----
-
-<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/loveyadav8478-blip/loveyadav8478-blip/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Calendar" />
 </div>
-
-> ⚠️ **This image will show broken until you complete a one-time setup** — it isn't a live API, it's a file that GitHub generates and commits *inside your own profile repo* once a day. See **Setup Notes → Step 3** at the bottom of this file (takes about 2 minutes). -->
 
 ---
 
@@ -168,7 +155,7 @@ Open to remote, hybrid, or on-site roles — let's connect if your team is hirin
 <a href="https://leetcode.com/u/Loveyadav_84" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<a href="mailto:youremail@example.com" target="_blank">
+<a href="mailto:YOUR_EMAIL_HERE" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -179,56 +166,3 @@ Open to remote, hybrid, or on-site roles — let's connect if your team is hirin
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:2F81F7&height=100&section=footer" width="100%" />
-
-</div>
-
-<!--
-=====================================================================
- SETUP NOTES (delete this comment block once done)
-=====================================================================
-1. Replace every "loveyadav8478-blip" placeholder above with your
-   actual GitHub username.
-
-2. Create a special repo named exactly like your username
-   (e.g. "LoveYadav-84/LoveYadav-84") and make it public — GitHub
-   shows its README.md on your profile page automatically.
-
-3. For the 3D CONTRIBUTION CALENDAR (the image will be broken until you do this):
-   a. In your repo "loveyadav8478-blip/loveyadav8478-blip", create the file
-      .github/workflows/profile-3d.yml with this content:
-
-      name: GitHub-Profile-3D-Contrib
-      on:
-        schedule:
-          - cron: "0 18 * * *"
-        workflow_dispatch:
-      permissions:
-        contents: write
-      jobs:
-        build:
-          runs-on: ubuntu-latest
-          name: generate-github-profile-3d-contrib
-          steps:
-            - uses: actions/checkout@v4
-            - uses: yoshi389111/github-profile-3d-contrib@latest
-              env:
-                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-                USERNAME: loveyadav8478-blip
-
-   b. Commit that file, then go to the repo's "Actions" tab, select
-      "GitHub-Profile-3D-Contrib", and click "Run workflow" once manually
-      (don't wait for the daily schedule).
-   c. It will commit new SVG files into a "profile-3d-contrib/" folder in
-      that same repo — including "profile-green-animate.svg", which is
-      exactly the file this README already links to. After that first run,
-      the image above will render and update automatically every day.
-   d. Full docs / other themes (season, night view, rainbow, etc.):
-      https://github.com/yoshi389111/github-profile-3d-contrib
-
-4. Update the email badge with your real email address.
-
-5. Optional: swap the "tokyonight" theme keyword in the stats URLs
-   for another theme (dracula, radical, merko, gruvbox, etc.) if
-   you want a different color palette.
-=====================================================================
--->
