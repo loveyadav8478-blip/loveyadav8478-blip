@@ -120,6 +120,25 @@ A personal finance / fintech assistant project — currently under active develo
   <img height="165" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Used Languages" />
 </div>
 
+#### 🔀 Pull Requests
+
+<!--PR_START-->
+**13** PRs &nbsp;|&nbsp; 🟣 **11** merged &nbsp;|&nbsp; 🟢 **0** open &nbsp;|&nbsp; 🔴 **2** closed
+
+| Repository | Pull Request | Status | Updated |
+|---|---|---|---|
+| [higher-kinded-j/higher-kinded-j](https://github.com/higher-kinded-j/higher-kinded-j) | [#1308 refactor: read AuditLogWriter time from an injected TimeSource](https://github.com/higher-kinded-j/higher-kinded-j/pull/1308) | 🟣 Merged | 27 Oct 2026 |
+| [higher-kinded-j/higher-kinded-j](https://github.com/higher-kinded-j/higher-kinded-j) | [#1205    docs: add WriterT to transformer overview and Supported Types](https://github.com/higher-kinded-j/higher-kinded-j/pull/1205) | 🟣 Merged | 22 Oct 2026 |
+| [loveyadav8478-blip/Spill-Detection](https://github.com/loveyadav8478-blip/Spill-Detection) | [#15 Finalized the full pipline error.](https://github.com/loveyadav8478-blip/Spill-Detection/pull/15) | 🟣 Merged | 25 Aug 2026 |
+| [loveyadav8478-blip/Spill-Detection](https://github.com/loveyadav8478-blip/Spill-Detection) | [#13 Detection module done.](https://github.com/loveyadav8478-blip/Spill-Detection/pull/13) | 🟣 Merged | 25 Aug 2026 |
+| [loveyadav8478-blip/Spill-Detection](https://github.com/loveyadav8478-blip/Spill-Detection) | [#11 Fixed the ais module and updated main as well and added db. If someth…](https://github.com/loveyadav8478-blip/Spill-Detection/pull/11) | 🟣 Merged | 24 Aug 2026 |
+| [loveyadav8478-blip/Spill-Detection](https://github.com/loveyadav8478-blip/Spill-Detection) | [#6 Merge kaushlendra_codes to main: Add hindcasting services and update schemas](https://github.com/loveyadav8478-blip/Spill-Detection/pull/6) | 🟣 Merged | 24 Aug 2026 |
+| [loveyadav8478-blip/Spill-Detection](https://github.com/loveyadav8478-blip/Spill-Detection) | [#7 Pr 6](https://github.com/loveyadav8478-blip/Spill-Detection/pull/7) | 🟣 Merged | 24 Aug 2026 |
+| [loveyadav8478-blip/Spill-Detection](https://github.com/loveyadav8478-blip/Spill-Detection) | [#3 Kaushlendra codes makes some changes in data/schema.py](https://github.com/loveyadav8478-blip/Spill-Detection/pull/3) | 🟣 Merged | 23 Aug 2026 |
+| [loveyadav8478-blip/Spill-Detection](https://github.com/loveyadav8478-blip/Spill-Detection) | [#2 This PR merges the latest hindcast and forcast implementation from the kaushlendra_codes branch into main.](https://github.com/loveyadav8478-blip/Spill-Detection/pull/2) | 🟣 Merged | 23 Aug 2026 |
+| [loveyadav8478-blip/Spill-Detection](https://github.com/loveyadav8478-blip/Spill-Detection) | [#1 Just basic structuring for now.](https://github.com/loveyadav8478-blip/Spill-Detection/pull/1) | 🔴 Closed | 23 Aug 2026 |
+<!--PR_END-->
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=loveyadav8478-blip&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
