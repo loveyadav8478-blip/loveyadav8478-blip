@@ -174,7 +174,7 @@ Open to remote, hybrid, or on-site roles — let's connect if your team is hirin
 <a href="https://leetcode.com/u/Loveyadav_84" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<a href="mailto:YOUR_EMAIL_HERE" target="_blank">
+<a href="mailto:loveyadav.8478@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
