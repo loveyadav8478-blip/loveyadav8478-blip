@@ -28,6 +28,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,python,mysql" alt="languages-frameworks" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,go,mysql" alt="languages-frameworks" />
 </p>
 
 **Backend Development**
