@@ -124,11 +124,11 @@ A personal finance / fintech assistant project — currently under active develo
 #### 🔀 Pull Requests
 
 <!--PR_START-->
-**14** PRs &nbsp;|&nbsp; 🟣 **11** merged &nbsp;|&nbsp; 🟢 **1** open &nbsp;|&nbsp; 🔴 **2** closed
+**14** PRs &nbsp;|&nbsp; 🟣 **12** merged &nbsp;|&nbsp; 🟢 **0** open &nbsp;|&nbsp; 🔴 **2** closed
 
 | Repository | Pull Request | Status | Updated |
 |---|---|---|---|
-| [Tugamer89/autogex](https://github.com/Tugamer89/autogex) | [#258 Implement language equivalence check in AutomataOperations and AutoGex](https://github.com/Tugamer89/autogex/pull/258) | 🟢 Open | 25 Nov 2026 |
+| [Tugamer89/autogex](https://github.com/Tugamer89/autogex) | [#258 Implement language equivalence check in AutomataOperations and AutoGex](https://github.com/Tugamer89/autogex/pull/258) | 🟣 Merged | 26 Nov 2026 |
 | [higher-kinded-j/higher-kinded-j](https://github.com/higher-kinded-j/higher-kinded-j) | [#1308 refactor: read AuditLogWriter time from an injected TimeSource](https://github.com/higher-kinded-j/higher-kinded-j/pull/1308) | 🟣 Merged | 27 Oct 2026 |
 | [higher-kinded-j/higher-kinded-j](https://github.com/higher-kinded-j/higher-kinded-j) | [#1205    docs: add WriterT to transformer overview and Supported Types](https://github.com/higher-kinded-j/higher-kinded-j/pull/1205) | 🟣 Merged | 22 Oct 2026 |
 | [loveyadav8478-blip/Spill-Detection](https://github.com/loveyadav8478-blip/Spill-Detection) | [#15 Finalized the full pipline error.](https://github.com/loveyadav8478-blip/Spill-Detection/pull/15) | 🟣 Merged | 25 Aug 2026 |
